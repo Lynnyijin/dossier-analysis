@@ -54,7 +54,7 @@ All classifier notebooks share the same structure: annotation loading → majori
 ### `page_start_classifier.ipynb`
 **Task**: binary classification — is this page the start of a new document segment?  
 **Scope**: all annotated pages across 65 dossiers.  
-**Models (12 total)**:
+**Models (13 total)**:
 
 | Modality | Models |
 |---|---|
